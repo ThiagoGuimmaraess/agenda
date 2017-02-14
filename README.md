@@ -2,7 +2,9 @@
 This is a e-contact book | Isso é um livro de contato virtual
 
 
-Sistema de agenda virtual com Nome, email, telefone, endereço, bairro, cidade e estado.
+Sistema de agenda virtual com nome, email, telefone, endereço, bairro, cidade e estado.
+
+Funcionalidades de pesquisar, cadastrar, alterar e excluir um contato.
 
 Segurança média que previne boa parte das tentativas de invasão
 
