@@ -1,0 +1,201 @@
+/**
+*
+*Estilo do Painel do Usuário
+*@author Thiago Guimarães <thiagoguimaraess_16@hotmail.com>
+*@version 1.0 Photo Book
+ */
+
+/*
+*
+*@author Thiago Guimarães <thiagoguimaraess_16@hotmail.com>
+*version: 1.0
+*
+*/
+
+
+/*
+css reset obtido no site do Meyer 
+
+ http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+	
+}
+body {
+	line-height: 1;
+	font-family:arial;
+	
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+	   #usuario
+	   
+	   {
+		   margin-left:15px;
+		   margin-top:30px; 
+		   color:/*#6161a0;*/ white;
+		   background-color:/*#c7f36e; #b1c18f; */#1c83c7;
+		   width:300px;
+		   padding-top:20px;
+		   border-radius:10px;		   
+		   height:40px;
+		   font-family:arial;
+		   
+		   
+	   }	   
+	   
+	   
+	   #caixa
+	   
+	   {   
+	
+		
+		
+		  margin-top:100px;		 
+		   
+		   
+	   }
+	   
+	   
+	 div  #acao
+	   
+	   {
+		   
+		  
+	       margin-left:5px;
+		   clear:both;
+		   
+
+		   
+		   
+		   
+		   
+		   
+		   
+		   
+	   }	
+
+	   
+	 input[type="text"]{
+	 margin-bottom:50px;
+	  width:60%;
+	   }
+	   
+	      
+	.cadastra input[type="text"]{
+	 margin-bottom:50px;
+	  width:30%;
+	  
+	   }
+	   	      
+	.cadastra {
+	 margin-bottom:50px;
+
+	  
+	   }
+	   		
+.cadastra ul 
+{
+	float:left;
+	
+	
+}
+
+
+.cadastra ul li
+{
+	
+	
+}
+
+	   
+	   .pesquisar
+	   {
+		   background-color:#1c83c7;
+		   height:30px;
+		   width:80px;
+		   border:none;
+		   color:white;
+		   
+		   
+		   
+	   }
+	   
+	   
+	     .cadastrar
+	   {
+		   background-color:#1c83c7;
+		   height:30px;
+		   width:80px;
+		   border:none;
+		   color:white;
+		   
+		   
+		   
+	   }
+	   
+	   
+	   
+	 .adicionar {
+		 margin-bottom:290px    
+		
+		 	   
+		   
+	   }	   
+	      
+    .adicionar:hover  {
+   filter: blur(4px) contrast(1);
+		
+		 	   
+		   
+	   }	   
+	      
+
+
+
+	   
+	   
+	   
+	   
+
+
